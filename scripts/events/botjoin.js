@@ -3,10 +3,10 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const ownerInfo = {
-  name: "۝𝐶𝐻𝑅𝐼𝑆𝑇𝑈𝑆۝",
+  name: "『𓋜』 ⚉ 𝗦𝗛𝗔𝗗𝗘 ⃢🩷 ✱ꪔ̤̱",
   facebook: "https://www.facebook.com/Anos.Christus",
-  telegram: "ᏉᎾᏆᎧ ᎿᎬᏁ",
-  supportGroup: "🌝🌚"
+  telegram: "𝐒𝐡𝐚𝐝𝐞 𝐂𝐡𝐚𝐧",
+  supportGroup: "💞 𝑺𝒉𝒂𝒅𝒆 𝑮𝒂𝒏𝒈 💞"
 };
 
 module.exports = {
